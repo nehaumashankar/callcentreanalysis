@@ -8,7 +8,7 @@ The objective of this project is to provide a comprehensive view of long-term tr
 
 ## Key Features
 ## Dashboard KPIs:
-**Calls Answered/Abandoned:** Tracks the total volume of calls answered or abandoned over the selected time frame. < br / >
+**Calls Answered/Abandoned:** Tracks the total volume of calls answered or abandoned over the selected time frame. <br/>
 **Issue Resolution:** Measures the total number of issues resolved, highlighting agent effectiveness. < br / >
 **Average Speed of Answer (SOA):** Captures the average response time, indicating efficiency in customer service.< br / >
 **Call Length:** Shows average call duration to gauge efficiency and quality.< br / >
